@@ -13,12 +13,12 @@ Do your best to answer the questions with specific details when required fully. 
 
 - Which one did you choose? Provide the name and base URL
 
-> https://developers.google.com/maps/documentation/routes
-> Google Maps Routes API
+> https://developers.google.com/maps
+> Google Maps Platform
 
 - What purpose is this API for (education/fun and games/information/etc.)?
 
-> The purpose of this API is to geocode which means, 'to provide geographical coordinates corresponding to (a location).' - (cite: https://www.google.com/search?q=what+is+geocoding&rlz=1C5CHFA_enUS980US980&oq=what+is+geocoding&aqs=chrome..69i57j0i512l9.4657j0j7&sourceid=chrome&ie=UTF-8)
+> The purpose of this website is it is a collection of APIs that provide developers with data which allow them to build apps needing info from maps, routes and other places around the world.
 
 - What is the URL of the documentation?
 
