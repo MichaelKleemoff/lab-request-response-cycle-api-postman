@@ -9,15 +9,16 @@ You will be working with a free API of your choice for this lab.
 
 ## Instructions
 
-Do your best to answer the questions with specific details when required fully. Writing about code clearly and thoroughly is a critical skill to practice. 
+Do your best to answer the questions with specific details when required fully. Writing about code clearly and thoroughly is a critical skill to practice.
 
 - Which one did you choose? Provide the name and base URL
 
-> http://
+> https://developers.google.com/maps/documentation/routes
+> Google Maps Routes API
 
 - What purpose is this API for (education/fun and games/information/etc.)?
 
-> The purpose of this API is
+> The purpose of this API is to geocode which means, 'to provide geographical coordinates corresponding to (a location).' - (cite: https://www.google.com/search?q=what+is+geocoding&rlz=1C5CHFA_enUS980US980&oq=what+is+geocoding&aqs=chrome..69i57j0i512l9.4657j0j7&sourceid=chrome&ie=UTF-8)
 
 - What is the URL of the documentation?
 
