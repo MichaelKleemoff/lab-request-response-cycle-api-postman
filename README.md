@@ -13,31 +13,44 @@ Do your best to answer the questions with specific details when required fully. 
 
 - Which one did you choose? Provide the name and base URL
 
-> https://developers.google.com/maps
-> Google Maps Platform
+> https://api.chess.com/pub/
+> Chess.com Published-Data API
 
 - What purpose is this API for (education/fun and games/information/etc.)?
 
-> The purpose of this website is it is a collection of APIs that provide developers with data which allow them to build apps needing info from maps, routes and other places around the world.
+> The purpose of this website is all current public data such as player data, game data and club/tournament information of chess players using the Chess.com app.
 
 - What is the URL of the documentation?
 
-> http://
+> https://www.chess.com/news/view/published-data-api#pubapi-endpoint-player
 
 - What is the full URL of one endpoint?
 
-> http://
+> https://api.chess.com/pub/player/mikek
 
 - What is a sample of the data from the endpoint (copy and paste results from Postman, ok to shorten if it’s over 100 lines)? Be sure to wrap your answer in the correct formatting for code/JSON.
 
 ```json
-
-
+{
+	"player_id": 1497520,
+	"@id": "https://api.chess.com/pub/player/mikek",
+	"url": "https://www.chess.com/member/MikeK",
+	"name": "Mike King",
+	"username": "mikek",
+	"followers": 0,
+	"country": "https://api.chess.com/pub/country/NZ",
+	"location": "Gisborne",
+	"last_online": 1242971367,
+	"joined": 1221038731,
+	"status": "basic",
+	"is_streamer": false,
+	"verified": false
+}
 ```
 
 - What status code did you get back?
 
-> 00
+> 200
 
 - Click on the **response** headers in Postman. What are the `Content-Type` and `Content-Length` (provide exact values)?
 
