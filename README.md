@@ -55,8 +55,10 @@ Do your best to answer the questions with specific details when required fully. 
 - Click on the **response** headers in Postman. What are the `Content-Type` and `Content-Length` (provide exact values)?
 
 > `Content-Type`
+> application/json; charset=utf-8
 
 > `Content-Length`
+> 1.22 KB
 
 - Summarize the most salient parts of the data you are getting back (for example, Cat facts returns JSON that identifies the source of the cat fact, the cat fact, information about when the fact was created and updated, and the fact itself).
 
